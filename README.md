@@ -1,9 +1,9 @@
 # shell-script
-HP DP Media rotation script for ESL and MSL librarires
+# HP DP Media rotation script for ESL and MSL librarires
 #!/usr/bin/ksh
 # set -x
 ##
-# This will check Pools and list out Tape with no space and Eject Also list tapes Free Tapes
+# This script will check offsite pools and eject tapes to library mail slots also findout Free tapes from media scrach media pool
 #
 ## Input Data as per Customer
 CUSTOMER="ABC"
